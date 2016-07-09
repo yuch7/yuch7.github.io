@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/yuch
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yuch7.github.io
+  * I am yuch (https://keybase.io/yuch) on keybase.
+  * I have a public key with fingerprint A637 0FA1 50E3 BD3E 6D7E  3F09 4A0A 3E5C 7506 0D8C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f9ba4039f2ccab1ccd24e19f20a55a37fc07b5ac86248c3fa68736a01a63d25d0a",
+            "fingerprint": "a6370fa150e3bd3e6d7e3f094a0a3e5c75060d8c",
+            "host": "keybase.io",
+            "key_id": "4a0a3e5c75060d8c",
+            "kid": "0101f9ba4039f2ccab1ccd24e19f20a55a37fc07b5ac86248c3fa68736a01a63d25d0a",
+            "uid": "d9af29504cce607c7d617d2ee0bedc19",
+            "username": "yuch"
+        },
+        "service": {
+            "hostname": "yuch7.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468106336,
+    "expire_in": 157680000,
+    "prev": "9b29497ac18c0d1fe91acfadd22fc12dd9be43742607e607906f04c4d1641eb0",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUltoE0EUTXz0ER8UX1jaol1rVChxZp/ZoKWi/uiPT6xajbMzs+nauInZTdpQ
+QhuDTyIoolUR4wsk2mKwllIVhFbwQ/0SRfBDaFUqigqKCj5nq4Iffjo/w9x7zplz
+LvfQpLGuEvcKT11jvGhS1n33pebakN6jt3FahCS5QBvXTEcvGibUsoPNBuECHIAA
+6qqGRCCoOo8x0iDGhBcpZE+AJAkJio6BokkI+2Ve9GNBR7JfEWQEIJIFwksEIK6W
+0w0zRGPRmGHaTJZ1FKAjKAEqaESgMlGooANVRAAJVMKKBGRA/JgRmyKWw2DmNGRR
+nxFhNfYIjtr7B/4/+46PyhEV6bwqARFjKgMFK0SGCuEpBRolGKoO0KIxE+2gDJ2M
+4yYuVcuxSsLA1Bmqk+KvruILGXZTXPsVJxqL2BEcCbNmk21HrYBDtpNRB91CteBv
+naBmmISNkTESNGYZEZMLQIbEtuEIQ1H2QyALglzL0daoEaNBw0FIiuwH7Dj/0AST
+VDVeFVUFbcDQjwGBOlUhwjoihOd1DHlCVI2KgiLyLKoTVwWyzqKLBMoipBrgnGg7
+zQgXEJhPFGKalhEykR2PUS7l2e+uHOdyl7iKxo9xFszlKS37s3VHNxf/WDqzt31u
+2DpwPz591dXUpmOFvbtGzEPLtrxvWJwr70+2P2n8sqJ6ibvGO/nIzo9ln+qFofTK
+5leX3WX1PXNLD89LLxmY0pLLzq8oujX+9jVf11C5L1s8wA+u9p2YbD28cuHx2dZp
+uZ6B256DqTMV+cKX1Xfs7Hbv56fewrd1iZrvg52Zdx9Gnu2+mV+TP5cber1+bR9J
+gsuF5e49x3j7/Njuqe9fZNjWpW95G7Yu7NjIzRC/nnR35PuEQt3EB1tO6Qv6nmud
+BzOzqj2Bp9rssvoj27rag939VZXD4e7qS+t7Vy6YA67vWzg4Yeq4GyVV3xcN33t0
+qi3ztnMEip/fXDx9vP8n
+=4c5r
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yuch
+
+==================================================================
